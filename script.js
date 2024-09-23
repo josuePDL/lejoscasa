@@ -6,7 +6,7 @@ const loginForm = document.getElementById('loginForm');
 const countDownDate = new Date("October 1, 2024 00:00:00").getTime();
 
 // Frase fija para la contraseña (no se asigna al input)
-const fixedPassword = "Tus";
+const fixedPassword = "Tus ojos son mi universo infinito";
 
 // URL de redirección
 const redirectUrl = "https://sites.google.com/view/lejos-de-casa/p%C3%A1gina-principal";
