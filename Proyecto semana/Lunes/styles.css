@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin: 0;
+}
+
+.countdown-container {
+    font-size: 3rem;
+    margin-bottom: 2rem;
+}
+
+form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: box-sizing;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+input[type="password"] {
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 15px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    box-sizing: box-sizing;
+    background-color: #333; /* Fondo ligeramente gris para mejor contraste */
+    color: white;
+}
+
+button[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100%;
+}
