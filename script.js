@@ -6,10 +6,10 @@ const loginForm = document.getElementById('loginForm');
 const countDownDate = new Date("October 1, 2024 00:00:00").getTime();
 
 // Frase fija para la contraseña (no se asigna al input)
-const fixedPassword = "Gonna love that woman 'til the end of time";
+const fixedPassword = "Eres mi Morticia y yo soy tu Homero";
 
 // URL de redirección
-const redirectUrl = "https://sites.google.com/view/el-dia-que-todo-cambio/p%C3%A1gina-principal";
+const redirectUrl = "https://sites.google.com/view/mi-refugio-/mi-refugio";
 
 // Actualiza la cuenta atrás cada segundo
 const x = setInterval(function() {
@@ -36,3 +36,4 @@ loginForm.addEventListener('submit', function(event) {
     alert('Contraseña incorrecta');
   }
 });
+ 
