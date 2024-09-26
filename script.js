@@ -6,10 +6,10 @@ const loginForm = document.getElementById('loginForm');
 const countDownDate = new Date("October 1, 2024 00:00:00").getTime();
 
 // Frase fija para la contraseña (no se asigna al input)
-const fixedPassword = "Eres mi Morticia y yo soy tu Homero";
+const fixedPassword = "Amo el color de tus ojos";
 
 // URL de redirección
-const redirectUrl = "https://sites.google.com/view/mi-refugio-/mi-refugio";
+const redirectUrl = "https://sites.google.com/view/los-pequeos-detalles/p%C3%A1gina-principal";
 
 // Actualiza la cuenta atrás cada segundo
 const x = setInterval(function() {
